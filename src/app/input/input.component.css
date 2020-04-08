@@ -1,0 +1,17 @@
+mat-card{
+  padding: 1em;
+  background-color: #FFFDE7;
+}
+
+mat-card-title{
+  color:#0288D1;
+  margin-bottom: 1em;
+}
+
+h2{
+  color: forestgreen;
+}
+
+label{
+  font-size: larger;
+}
